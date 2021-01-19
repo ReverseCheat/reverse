@@ -1,11 +1,16 @@
 
-Insira sua sensibilidade, smooth e modo no console
+Insira sua sensibilidade,
+smooth e modo no console
 O console vai fechar
 Coloque o modo de daltonico roxo
 
-  Cnfig Padrao:
-  (sens)
-  0,1
-  3
+Valores recomendados para
+smoothh: 0,01-0,2
+O aim possui 3 modos:
+(1, 2, 3). 1 é apenas para correção de tiro,
+2 é apenas para AimAssist, 3 é para ambos)
 
-
+Cnfig Padrao:
+(sens)
+0,1
+3
